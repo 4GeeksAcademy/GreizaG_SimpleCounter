@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.unitSecond {
+    width: 100%;
+    height: 100%;
+    color: white;
+    background-color: purple;
+    border: darkgrey;
+    border-width: 2px;
+    border-style: solid;
+    font-size: 60px;
+}
+
+.fa-regular {
+    font-size: 60px;
+}
